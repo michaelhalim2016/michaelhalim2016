@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on **Mobile Banking app**
-
-- 🌱 I’m currently learning **Flutter And Firebase**
+- 🔭 I’m currently working on **Artificial intelligence (AI)**
 
 - 📫 How to reach me **michael.halim2016@gmail.com**
 
